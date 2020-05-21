@@ -1,4 +1,4 @@
-# Plugin UNMC Director
+# Plugin UNMC Directory
 
 This plugin creates an external transfer interface that allows an agent to pick from a list of numbers and initiate an external warm conference.
 
